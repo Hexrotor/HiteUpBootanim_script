@@ -1,7 +1,7 @@
 # hht_updateBootanim
 `hht_updateBootanim.sh`是从学校HiteVision黑板Android系统中导出的开机动画更新脚本，其中记录有使用U盘更新系统开机动画的方法。
 
-`usbdisk/`为U盘根目录示意，`bootanims/`有一些横屏适用的开机动画。
+`usbdisk/`为U盘根目录示例，`bootanims/`有一些横屏适用的开机动画。
 
 ## 更新方法
 
