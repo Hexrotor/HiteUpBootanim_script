@@ -3,7 +3,7 @@
 
 `usbdisk/`为U盘根目录示意，`bootanims/`有一些横屏适用的开机动画。
 
-# 更新方法
+## 更新方法
 
 1. U盘中`update_bootanimation`目录为标记,插入U盘时检测有此目录则尝试更新logo/bootanimation
 
